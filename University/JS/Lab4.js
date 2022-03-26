@@ -4,7 +4,6 @@
     let btn = document.getElementById("btn");
     let btn2 = document.getElementById("btn2")
 
-
     // var disp = document.getElementById("display");
     // btn.onclick = function ()
     // {
